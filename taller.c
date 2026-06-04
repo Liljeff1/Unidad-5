@@ -5,6 +5,7 @@ Autores:Ronald Smith Angulo Arboleda
 Taller Unidad 5
 Métodos de Ordenamiento Eficientes y Búsqueda Binaria
 */
+// Nota: asegure que la ruta de include esté configurada en su entorno de desarrollo.
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
